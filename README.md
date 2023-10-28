@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushrawat-github
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me  rawatayush1718@gmail.com
 
