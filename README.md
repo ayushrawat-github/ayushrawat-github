@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayushrawat-github
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me  rawatayush1718@gmail.com
 
